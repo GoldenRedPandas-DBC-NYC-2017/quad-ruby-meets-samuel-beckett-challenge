@@ -1,0 +1,1 @@
+# quad-ruby-meets-samuel-beckett-challenge
